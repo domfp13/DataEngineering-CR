@@ -9,6 +9,7 @@ This is a simple data pipeline process that reads data from a CSV file and trans
 
 ## Note
 * [Anaconda](https://docs.anaconda.com/anaconda/) - Anaconda allows us to keep python virtual environments organize and it is the best setup tool for data analysis.
+* [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/user_guide/introduction.html#) - Take a look at the official Oracle-Python library
 
 ## Steps
 
