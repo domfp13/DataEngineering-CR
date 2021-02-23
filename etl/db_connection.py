@@ -31,4 +31,4 @@ class OracleConnection():
     def __del__(self):
         """Dunder method, this method is call implicitly once the python cleaner process starts
         """
-        print("Destructor called")
+        pass
